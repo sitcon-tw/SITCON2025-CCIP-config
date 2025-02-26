@@ -6,7 +6,7 @@
       "zh-TW": "報到"
     },
     "available_time": "2025/03/08 7:30 +0800",
-    "expire_time": "2025/03/08  17:00 +0800",
+    "expire_time": "2025/03/08 17:00 +0800",
     "countdown": 0,
     "related_scenario": [
       {
@@ -28,8 +28,8 @@
       "en-US": "Welcome Speaker Kit",
       "zh-TW": "講者迎賓袋"
     },
-    "available_time": "2025/03/08  8:30 +0800",
-    "expire_time": "2025/03/08  16:00 +0800",
+    "available_time": "2025/03/08 8:30 +0800",
+    "expire_time": "2025/03/08 16:00 +0800",
     "countdown": 180,
     "attr": [
       {
@@ -45,8 +45,8 @@
       "en-US": "Ticket Stub for Transport Allowance",
       "zh-TW": "繳交交通補助票根"
     },
-    "available_time": "2025/03/08  7:30 +0800",
-    "expire_time": "2025/03/08  17:00 +0800",
+    "available_time": "2025/03/08 7:30 +0800",
+    "expire_time": "2025/03/08 17:00 +0800",
     "countdown": 45
   },
   "lunch": {
