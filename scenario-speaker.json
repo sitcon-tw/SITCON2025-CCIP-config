@@ -6,7 +6,7 @@
       "zh-TW": "報到"
     },
     "available_time": "2025/03/08 7:30 +0800",
-    "expire_time": "2025/03/08 17:00 +0800",
+    "expire_time": "2025/03/08 16:00 +0800",
     "countdown": 0,
     "related_scenario": [
       {
@@ -25,7 +25,7 @@
   "kit": {
     "order": 2,
     "display_text": {
-      "en-US": "Welcome Speaker Kit",
+      "en-US": "Speaker Welcome Kit",
       "zh-TW": "講者迎賓袋"
     },
     "available_time": "2025/03/08 8:30 +0800",
@@ -37,9 +37,9 @@
         "attr_name": "shirt_size"
       }
     ],
-    "lock_message": "Haven't Check-in"
+    "lock_message": "你還沒報到！"
   },
-  "ticket_Stub": {
+  "ticket_stub": {
     "order": 3,
     "display_text": {
       "en-US": "Ticket Stub for Transport Allowance",
@@ -52,7 +52,7 @@
   "lunch": {
     "order": 4,
     "display_text": {
-      "en-US": "Lunch",
+      "en-US": "Redeem Lunch",
       "zh-TW": "領取午餐"
     },
     "available_time": "2025/03/08 11:15 +0800",
