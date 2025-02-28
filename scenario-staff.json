@@ -26,7 +26,7 @@
       "en-US": "Clothes",
       "zh-TW": "領取衣服"
     },
-    "available_time": "2024/03/07 13:30 +0800",
+    "available_time": "2025/03/07 13:30 +0800",
     "expire_time": "2025/03/08 17:00 +0800",
     "countdown": 36400,
     "attr": [
@@ -42,7 +42,7 @@
       "en-US": "room",
       "zh-TW": "住宿"
     },
-    "available_time": "2024/03/07 06:30 +0800",
+    "available_time": "2025/03/07 06:30 +0800",
     "expire_time": "2025/03/08 17:00 +0800",
     "countdown": 36400,
     "not_lock_rule": {
